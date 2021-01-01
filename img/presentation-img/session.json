@@ -1,0 +1,44 @@
+[
+  {
+    "session_ID": 1,
+    "session": "Parallel Technical Session - 1 (Chair: TBC):",
+    "description": "Cognitive and Computational Foundations of Brain Science",
+    "Paper IDs": ": B202, B204, B205, B251, B208, B236",
+    "Time": ": 9:00 - 10:30"
+  },
+  {
+    "session_ID": 2,
+    "session": "Parallel Technical Session - 2 (Chair: TBC):",
+    "description": "Investigations of Human Information Processing Systems",
+    "Paper IDs": ":  B213, B226, B227, B247, B252",
+    "Time": ": 9:00 - 10:30"
+  },
+  {
+    "session_ID": 3,
+    "session": "Parallel Technical Session - 3 (Chair: TBC):",
+    "description": "Brain Big Data Analytics, Curation and Management",
+    "Paper IDs": ": B209, B221, B234, B235, B238, B245",
+    "Time": ": 11:00 - 12:30"
+  },
+  {
+    "session_ID": 4,
+    "session": "Parallel Technical Session - 4 (Chair: TBC):",
+    "description": "Informatics Paradigms for Brain and Mental Health Research",
+    "Paper IDs": ":  B211, B219, B224, B229, B233, B246",
+    "Time": ": 11:00 - 12:30"
+  },
+  {
+    "session_ID": 5,
+    "session": "Parallel Technical Session - 5 (Chair: TBC):",
+    "description": "Brain-Machine Intelligence and Brain-Inspired Computing",
+    "Paper IDs": ": B206, B217, B222, B225, B244, B215",
+    "Time": ": 16:00 - 17:30"
+  },
+  {
+    "session_ID": 6,
+    "session": "Parallel Technical Session - 6 (Chair: TBC):",
+    "description": "Mixed-track Brain Informatics Papers",
+    "Paper IDs": ": B220, B243, B223, B214, B218, B242, B249",
+    "Time": ": 16:00 - 17:45"
+  }
+]

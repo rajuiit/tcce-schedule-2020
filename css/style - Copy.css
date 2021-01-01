@@ -1,0 +1,335 @@
+h2{
+  text-align: center;
+}
+/*====================   navbar  part  ==================== */
+*{
+    transition: all 0.3s;}
+nav a {
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+  font-size: 18px;
+}
+.navbar-inverse{
+    background-color:#f00;
+    }
+nav .navbar-toggle {
+  margin: 13px 15px 13px 0;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+
+
+nav.navbar.shrink {
+  min-height: 100px;
+}
+
+nav.shrink a {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+  font-size: 15px;
+}
+
+nav.shrink .navbar-brand {
+  font-size: 25px;
+}
+
+nav.shrink .navbar-toggle {
+  padding: 4px 5px;
+  margin: 8px 15px 8px 0;
+}
+
+
+
+/*         ====== slider part  ====          */
+.bg-image1 {
+  /* The image used */
+  background-image: url("../img/wall1.jpg");
+  
+  /* Add the blur effect */
+  filter: blur(4px);
+  -webkit-filter: blur(4px);
+  
+  /* Full height */
+  height: 540px; 
+  
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-image2 {
+  /* The image used */
+  background-image: url("../img/wall2.jpg");
+  
+  /* Add the blur effect */
+  filter: blur(4px);
+  -webkit-filter: blur(4px);
+  
+  /* Full height */
+  height: 540px; 
+  
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-image3 {
+  /* The image used */
+  background-image: url("../img/wall3.jpg");
+  
+  /* Add the blur effect */
+  filter: blur(4px);
+  -webkit-filter: blur(4px);
+  
+  /* Full height */
+  height: 540px; 
+  
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+#owl_demo{
+  margin-top: 60px;
+}
+
+.slider_area{
+	position:relative;
+}
+.slider_area > img{
+	width:100%;
+}
+
+
+/*
+.owl-buttons .owl-prev{
+	background:none !important;
+}
+.owl-buttons .owl-prev .fa {
+  background: red none repeat scroll 0 0;
+  color: #fff;
+  font-size: 56px;
+  font-weight: bold;
+  height: 59px;
+  left: 15px;
+  position: absolute;
+  top: 39%;
+  width: 57px;
+  padding-right: 7px;
+}
+.owl-buttons .owl-next{
+	background:none !important;
+}
+.owl-buttons .owl-next .fa{
+  background: red none repeat scroll 0 0;
+  color: #fff;
+  font-size: 56px;
+  font-weight: bold;
+  height: 59px;
+  right: 15px;
+  position: absolute;
+  top: 39%;
+  width: 57px;
+  padding-right: 7px;
+}
+*/
+/* ============= time counter  =============  */
+#demo_counter {
+  text-align: center;
+  font-size: 40px;
+  margin-top: -500px;
+  color: red;
+  display: block;
+  position: relative;
+}
+
+
+/* ================================= content Block ============================================= */
+
+/*=========== banner ========*/
+#edit_banner{
+      margin-top: 20%;
+    margin-left: 22%;
+}
+
+/*===========  finish banner  =========*/
+
+/*=========== about & topics ========*/
+ .about{
+  width: 70%;
+  margin-left: 15%;
+  text-align: justify;
+  height: auto;
+ }
+
+ #video_block{
+  height: 600px;
+  width: 700px;
+  margin-left: 120px;
+ }
+
+/*===========  finish about & topics =========*/
+
+/*=========== keynote speakers ========*/
+
+ .speaker_description{
+  font-size: 20px;
+ }
+ .speaker_details{
+  margin-top: 10px;
+ }
+ .speaker_image{
+    height: 193px;
+    width: 141px;
+    border-radius: 100%;
+ }
+
+/*===========  finish keynnote speakers  =========*/
+
+/*=========== book publications ========*/
+.edit_books{
+     height: 260px;
+    width: 204px;
+}
+
+/*===========  finish book publications  =========*/
+
+/*=========== paper publications ========*/
+.paper_block{
+  width: 70%;
+  margin-left: 15%;
+  text-align: justify;
+  height: auto;
+ }
+
+/*===========  finish paper publications  =========*/
+/*=========== paper dates ========*/
+.important_dates{
+  width: 50%;
+  margin-left: 34%;
+  height: auto;
+ }
+
+/*===========  finish dates  =========*/
+
+/*=========== workshops ========*/
+.workshop_block{
+    width: 70%;
+  margin-left: 15%;
+  text-align: justify;
+  height: auto;
+ }
+
+/*===========  finish workshops  =========*/
+
+/*=========== sponsors ========*/
+#sponsor_block{
+    width: 80%;
+  margin-left: 15%;
+  text-align: justify;
+  height: auto;
+ }
+
+.sponsor_image_7{
+  width: 300px;
+  height: 90px;
+}
+
+.second_row{
+  width: 65%;
+  margin-left: 150px;
+}
+/*===========  finish sponsors  =========*/
+
+/* =========  finish content block  ========== */
+
+/* footer upper part   */
+
+ .edit_contact {
+  background: #ff9933;
+  text-align:center;
+  padding-top:8%;
+  padding-bottom:8%;
+  margin-top:18%;
+  
+
+}
+
+.fa-heart{
+  color:red;
+}
+
+.social-buttons ul{
+  margin-bottom:0;
+
+
+}
+.social-buttons li a{
+  
+  display:block;
+  background-color:#222222;
+  height:40px;
+  width:40px;
+  border-radius:12%;
+  font-size:20px;
+  line-height:40px;
+  color:#fed136;
+  outline:0;
+  padding-left:3px;
+  margin:5%;
+  
+  }
+  .social-buttons li a:active,ul.social-buttons li a:focus,ul.social-buttons li a:hover{
+    background-color:#fff;
+    }
+    .btn.active,.btn:active,.btn:active:focus,.btn:focus{
+      outline:0;
+    }
+
+
+
+
+.newsletter input{
+  padding:1.4%;
+  background-color:transparent;
+  border:1px solid grey;
+  margin-right:-4px;
+  margin-top:1.2px;
+}
+
+
+ /* footer part  */
+
+ .my_footer {
+  background-color: #222222;
+  padding: 25px 0;
+  color: rgba(255, 255, 255, 0.3);
+  text-align: center;
+  
+}
+.my_footer p {
+  font-size: 12px;
+  margin: 0;
+  text-align: center;
+}
+.my_footer ul {
+  margin-bottom: 0;
+}
+.my_footer ul li a {
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.3);
+}
+.my_footer ul li a:hover,
+.my_footer ul li a:focus,
+.my_footer ul li a:active,
+.my_footer ul li a.active {
+  text-decoration: none;
+}

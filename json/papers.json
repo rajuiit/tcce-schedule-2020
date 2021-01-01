@@ -1,0 +1,485 @@
+{
+  "papers": [
+    {
+      "id": "1",
+      "paper_id": "305",
+      "description": "Erteza Tawsif Efaz, Fakhrul Alam, and Md. Shah Kamal, Deep CNN-supported Ensemble CADx Architecture to Diagnose Malaria by Medical Image",
+      "author_email": "ertezatawsif@gmail.com, fakhrulalam073@gmail.com, saimum012@gmail.com",
+      "contact_person": "Erteza Tawsif Efaz <ertezatawsif@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "2",
+      "paper_id": "311",
+      "description": "Mohammad Helal Uddin, Mohammad Nahid Hossain, and Asif Ur Rahman, A Routing Protocol for Cancer Cell Detection using Wireless Nano-sensors Network (WNSN)",
+      "author_email": "helaluddinsimon@gmail.com, nahid@kw.ac.kr, asif.frnd@gmail.com",
+      "contact_person": "Mohammad Nahid Hossain <nahid@kw.ac.kr>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "3",
+      "paper_id": "313",
+      "description": "Pushpendra Singh, Pathik Sahoo, Kanad Ray, Subrata Ghosh and Anirban Bandyopadhyay, Building a non-ionic, non-electronic, non-algorithmic artificial brain: Cortex and connectome interaction in a humanoid bot subject (HBS)",
+      "author_email": "singhpushpendra548@gmail.com, 2c.pathik@gmail.com, kanadray00@gmail.com, ocsgin@gmail.com, anirban.bandyo@gmail.com",
+      "contact_person": "Pushpendra Singh <singhpushpendra548@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "4",
+      "paper_id": "315",
+      "description": "Sabrina Jesmin, and Rahul Damineni, Anonymous Author identifier Using Machine Learning",
+      "author_email": "sabrina.jesmin.eee@gmail.com, daminens@oregonstate.edu",
+      "contact_person": "Sabrina Jesmin <sabrina.jesmin.eee@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "5",
+      "paper_id": "316",
+      "description": "Mohammad Helal Uddin, Mohammad Nahid Hossain, and S-H Yang, An ANN-based Approach to Identify Smart Appliances for Ambient Assisted Living (AAL) in the Smart Space",
+      "author_email": "helaluddinsimon@gmail.com, nahid@kw.ac.kr, shyan@kw.ac.kr",
+      "contact_person": "Mohammad Helal Uddin <helaluddinsimon@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "6",
+      "paper_id": "321",
+      "description": "Masood  Imran, and Minar Masud, Virtual Heritage of the Saith Gumbad Mosque Bangladesh",
+      "author_email": "masoodimranmannu@juniv.edu, minar26865@gmail.com",
+      "contact_person": "Masood  Imran <masoodimranmannu@juniv.edu>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "7",
+      "paper_id": "323",
+      "description": "Laboni Akter, and Nasrin Akhter, Detection of Ovarian Malignancy from Combination of CA125 in blood and TVUS using Machine Learning",
+      "author_email": "laboni.kuet.bme@gmail.com, nasrindr07@gmail.com",
+      "contact_person": "Laboni Akter <laboni.kuet.bme@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "8",
+      "paper_id": "325",
+      "description": "Nazrul Islam, SM Shamim, Md. Fazla Rabbi, Md. Saikat Islam Khan, and Mohammad Abu Yousuf, Building Machine Learning Based Firewall on Spanning Tree Protocol over Software Defined Networking",
+      "author_email": "nazrul.islam@ieee.org, smsict09@gmail.com, fazlarabbi366iou@gmail.com, bappy.10.cse.mbstu@gmail.com, yousuf@juniv.edu",
+      "contact_person": "Nazrul Islam <nazrul.islam@ieee.org>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "9",
+      "paper_id": "326",
+      "description": "Partha Chakraborty, Mohammad Abu Yousuf, and Saifur Rahman, Predicting Level of Visual Focus of Human's Attention using Machine Learning Approaches",
+      "author_email": "partha.chak@cou.ac.bd, yousuf@juniv.edu, saifurrahmany43@gmail.com",
+      "contact_person": "Partha Chakraborty <partha.chak@cou.ac.bd>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "10",
+      "paper_id": "329",
+      "description": "Nahid Ibne Akhtar, Kh. Mohimenul Islam Shazol, Rifat Rahman, and Mohammad Abu Yousuf, Bangla Text Generation Using Bidirectional Optimized Gated Recurrent Unit Network",
+      "author_email": "nahid.ibne.akhtar@gmail.com, shazol.kh@gmail.com, rifatrahman140530@gmail.com, yousuf@juniv.edu",
+      "contact_person": "Nahid Ibne Akhtar <nahid.ibne.akhtar@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "11",
+      "paper_id": "330",
+      "description": "Jasiya Fairiz Raisa, Maliha Ulfat, Abdullah Al Mueed, and Mohammad Abu Yousuf, Handwritten Bangla Character Recognition Using Convolutional Neural Network and Bidirectional Long Short-Term Memory",
+      "author_email": "jasiyafairiz@gmail.com, maliha.ulfat@gmail.com, 17511002@student.bup.edu.bd, yousuf@juniv.edu",
+      "contact_person": "Jasiya Fairiz Raisa <jasiyafairiz@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "12",
+      "paper_id": "333",
+      "description": "Shuvashis Paul Sagar, Khondokar Oliullah, Kazi Sohan, and Md. Fazlul Karim Patwary, PRCMLA: Product Review Classification using Machine Learning Algorithms",
+      "author_email": "shuvashishpaul64@gmail.com, oli.it.ju@gmail.com, kazisohan1920@gmail.com, patwary@juniv.edu",
+      "contact_person": "Khondokar Oliullah <oli.it.ju@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "13",
+      "paper_id": "334",
+      "description": "Taslim  Arefin, Node Mobility Optimization in Multi-hop WBAN Using Genetic Algorithm",
+      "author_email": "arefin@diu.edu.bd",
+      "contact_person": "Taslim  Arefin <arefin@diu.edu.bd>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "14",
+       "paper_id": "336",
+      "description": "Mir Noshin Jahan, Anik Sarker, Shubra Tanchangya, and Mohammad Abu Yousuf, Bangla Real-Word Error Detection and Correction Using Bidirectional LSTM and Bigram Hybrid Model",
+      "author_email": "noshinmir003@gmail.com, aniks2645@gmail.com, tanchangyashuv01@gmail.com, yousuf@juniv.edu",
+      "contact_person": "Mir Noshin Jahan <noshinmir003@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "15",
+      "paper_id": "338",
+      "description": "Farah Hasin, and Kazi Abu Taher, Cyber Threat Mitigation of Impending ADS-B Based Air Traffic Management System Using Blockchain Technology",
+      "author_email": "farahhasin01@gmail.com, kataher@gmail.com",
+      "contact_person": "Farah Hasin <farahhasin01@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "16",
+       "paper_id": "339",
+      "description": "Tandra Rani Das, Sharad Hasan, S M Sarwar, Jugal Krishna Das, and Muhammad Arifur Rahman, Facial Spoof Detection Using Support Vector Machine",
+      "author_email": "tanudast95@gmail.com, hasansharad@gmail.com, smsarwar96@gmail.com, cedas@juniv.edu, arif@juniv.edu",
+      "contact_person": "Sharad Hasan <hasansharad@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "17",
+      "paper_id": "342",
+      "description": "Noyon Dey, Motahara Sabah Mredula, Md. Nazmus Sakib, Muha. Nishad Islam, and Md. Sazzadur Rahman, A Machine Learning Approach to Predict Events By Analyzing Bengali Facebook Posts",
+      "author_email": "noyondey8@gmail.com, mmredula12@gmail.com, sakibayon98@gmail.com, nishad.nik@gmail.com, sazzad@juniv.edu",
+      "contact_person": "Md. Sazzadur Rahman <sazzad@juniv.edu>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "18",
+      "paper_id": "343",
+      "description": "Md. Faisalur Rahman, and Md. Mahabub Hossain, Implementation of Robotics to Design a Sniffer Dog for the Application of Metal Detection",
+      "author_email": "diprofaisal@gmail.com, im.mahabub@gmail.com",
+      "contact_person": "Md. Mahabub Hossain <im.mahabub@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "19",
+      "paper_id": "344",
+      "description": "M. Shamim Kaiser, Nusrat Zerin Zenia, Fariha Tabassum, Shamim Al Mamun, Md. Sazzadur Rahman, and Mohammad Shahidul Islam, 6G Access Network for Intelligent Internet of Healthcare Things: Opportunity - Challenges and Research Directions",
+      "author_email": "mskaiser@juniv.edu, nusratzenia@gmail.com, abonty.mist@gmail.com, shamim@juniv.edu, sazzad@juniv.edu, sislam@juniv.edu, mufti.mahmud@ntu.ac.uk",
+      "contact_person": "M. Shamim Kaiser <mskaiser@juniv.edu>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "20",
+       "paper_id": "345",
+      "description": "Samrat Kumar Dey, and Arpita Howlader, MobileNet Mask: A Multi-phase Face Mask Detection Model to Prevent person-to-person Transmission of SARS-CoV-2",
+      "author_email": "sopnil.samrat@gmail.com, arpita.cse@pstu.ac.bd",
+      "contact_person": "Samrat Kumar Dey <sopnil.samrat@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "21",
+      "paper_id": "346",
+      "description": "Fatema Nasrin, Nafiz Ishtiaque Ahmed and Dr. Muhammad Arifur Rahman, Auditory Attention State Decoding for the Quiet and Hypothetical Environment: A Comparison Between bLSTM and SVM",
+      "author_email": "fatemanasrin1234@gmail.com, cse.ishtiaque@gmail.com, arif@juniv.edu",
+      "contact_person": "Fatema Nasrin <fatemanasrin1234@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "22",
+      "paper_id": "347",
+      "description": "Sm Al-Amin, Shipra Rani Sharkar, M. Shamim Kaiser, and Milon Biswas, Towards a Blockchain Based Supply ChainManagement for E-Agro Business System",
+      "author_email": "smalamin.piash@gmail.com, shiprasarkar456@gmail.com, mskaiser@juniv.edu, milonbiswas4702@gmail.com",
+      "contact_person": "Milon Biswas <milonbiswas4702@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "23",
+      "paper_id": "351",
+      "description": "Pushpendra Singh, Kanad Ray, Preecha, Jalil Ali and Anirban Bandyopadhyay, Thermo-mechanism: Snake pit membrane",
+      "author_email": "singhpushpendra548@gmail.com,kanadray00@gmail.com, preecha.yu@kmitl.ac.th, jalilali@utm.my, anirban.bandyo@gmail.com",
+      "contact_person": "Pushpendra Singh <singhpushpendra548@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "24",
+      "paper_id": "352",
+      "description": "Pushpendra Singh, Kanad Ray, Preecha Yupapin, Jalil Ali and Anirban Bandyopadhyay, EM Signal Processing in Bio-living System",
+      "author_email": "singhpushpendra548@gmail.com,kanadray00@gmail.com, preecha.yu@kmitl.ac.th, jalilali@utm.my, anirban.bandyo@gmail.com",
+      "contact_person": "Pushpendra Singh <singhpushpendra548@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "25",
+      "paper_id": "353",
+      "description": "Afrin Ahmed and Mohammad Abu Yousuf, Sentiment Analysis on Bangla Text using Long Short Term Memory (LSTM) Recurrent Neural Network",
+      "author_email": "afrinahmed328@gmail.com, yousuf@juniv.edu",
+      "contact_person": "Afrin Ahmed <afrinahmed328@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "26",
+      "paper_id": "356",
+      "description": "Nahida Islam, Ishrat Sultana and Md. Sazzadur Rahman, HKMS-AMI: A Hybrid Key Management Scheme for AMI Secure Communication",
+      "author_email": "nahida11.islam@gmail.com, ishratshapno@gmail.com, sazzad@juniv.edu",
+      "contact_person": "Nahida Islam <nahida11.islam@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "27",
+      "paper_id": "363",
+      "description": "Md. Shams Sayied Haque, Md. Tanvir Rahman, Risala Tasin Khan and Mohammad Shibli Kaysar, Voice Assistant and Touch Screen Operated Intelligent Wheelchair for Physically Challenged People",
+      "author_email": "shamssayied@gmail.com, sajal.it.ju@gmail.com, risala@juniv.edu, shibli.kaysar@gmail.com",
+      "contact_person": "Md. Tanvir Rahman <sajal.it.ju@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "28",
+      "paper_id": "369",
+      "description": "S. M.  Shamim, Dina Hossain, Nahid Arefin, Sumaiya Shimu and Ali Newaz Bahar, Design and Analysis of 37GHz Millimeter Wave Microstrip Patch Antenna for 5G Cellular Communication",
+      "author_email": "ictshamim@yahoo.com, dina@yaa.com, nahid@yaho.com, shimu@yaho.com, bahar@yaoo.com",
+      "contact_person": "S. M.  Shamim <ictshamim@yahoo.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "29",
+      "paper_id": "371",
+      "description": "Aniqua Nusrat Zereen, Sonia Corraya, Prof. Matthew N. Dailey, and Dr. Mongkol Ekpanyapong, Two-Stage Facial Mask Detection Model for Indoor Environments",
+      "author_email": "st120069@ait.ac.th, sonia@cse.jnu.ac.bd, mdailey@ait.ac.th, mongkol@ait.ac.th",
+      "contact_person": "Aniqua Nusrat Zereen <st120069@ait.ac.th>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "30",
+      "paper_id": "372",
+      "description": "Humayra Ferdous, Tasnim Siraj, Shifat Jahan Setu and Muhammad Arifur Rahman, Machine Learning Approach Towards Satellite Image Classification",
+      "author_email": "humayratasnu@gmail.com, tasnimsiraj07@gmail.com, sjahans.cseju@gmail.com, arif@juniv.edu",
+      "contact_person": "Humayra Ferdous <humayratasnu@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "31",
+      "paper_id": "374",
+      "description": "MANOJ SHARMA, Comparative Analysis of different Classifiers on EEG Signals for Predicting Epileptic Seizure",
+      "author_email": "vmanojsharma@gmail.com",
+      "contact_person": "MANOJ SHARMA <vmanojsharma@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "32",
+      "paper_id": "375",
+      "description": "Prithwiraj Bhattacharjee, Avi Mallick, Md Saiful Islam, and Marium-E-Jannat, Bengali abstractive News Summarization(BANS): A Neural Attention Approach",
+      "author_email": "prithwiraj12@student.sust.edu, avimallick999@gmail.com, saiful-cse@sust.edu, jannat-cse@sust.edu",
+      "contact_person": "Md Saiful Islam <saiful-cse@sust.edu>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "33",
+      "paper_id": "381",
+      "description": "Sharaban  Tahura, S M Hasnat Samiul, M S Kaiser and Mufti Mahmud, Anomaly Detection in ElectroencephalographySignal using Deep Learning Model",
+      "author_email": "sharabantahura110@gmail.com, hasnatsamiul04@gmail.com, mskaiser@junv.edu, muftimahmud@gmail.com",
+      "contact_person": "Sharaban  Tahura <sharabantahura110@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "34",
+      "paper_id": "384",
+      "description": "Abrar Fahim Alam, S.M. Musfiqul Islam, Rahman Masuk Orpon, and M. Shamim Kaiser, iHOREApp: A Mobile App for Hybrid Renewable Energy Model using Particle Swarm Optimization",
+      "author_email": "fahimnirzhar@gmail.com, smmusfiqulislam@gmail.com, rahmanmasukorpon@gmail.com, mskaiser@juniv.edu",
+      "contact_person": "Abrar Fahim Alam <fahimnirzhar@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "35",
+      "paper_id": "388",
+      "description": "S. M.  Shamim, Dina Hossain, Nahid Arefin, Sumaiya Shimu and Khadija Islam Borna, Design a U-slot Microstrip Patch Antenna at 37GHz mmWave for 5G Cellular Communication",
+      "author_email": "ictshamim@yahoo.com, dina@yaho.com, nahid@yaoo.com, sumaiya@yahoo.co, borna@yahoo.co",
+      "contact_person": "S. M.  Shamim <ictshamim@yahoo.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "36",
+      "paper_id": "389",
+      "description": "Zannatun Naiem Riya, and Tanzim Tamanna Shitu, A Healthcare System for in-home ICU during COVID-19 Pandemic",
+      "author_email": "riyanaiem45@gmail.com, shitutanzim0711@gmail.com",
+      "contact_person": "Zannatun Naiem Riya <riyanaiem45@gmail.com>",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "37",
+      "paper_id": "393",
+      "description": "Tasnuva Tabassum, Nusrat Tasnim, Nusaiba Nizam , and Shamim Al Mamun, Anonymous Person Tracking across Multiple Camera Using Color Histogram and Body Pose Estimation",
+      "author_email": "tasnuvameem@gmail.com, nusrattasnim17@gmail.com, saranusaibanizam@gmail.com, shamim@juniv.edu",
+      "contact_person": "Nusaiba Nizam, saranusaibanizam@gmail.com",
+      "submissionCat": "regular"
+    },
+    {
+      "id": "38",
+      "paper_id": "400",
+      "description": "Mohammad Akter Hossain, Mubtasim Islam Sabik, Md. Moshiur Rahman, Shadikun Nahar Sakiba, A.K.M. Muzahidul Islam, Swakkhar Shatabda, Salekul Islam, Ashir Ahmed, An Effective Leukemia Prediction Technique using Supervised Machine Learning Classification Algorithm",
+      "author_email": "mhossain153064@bscse.uiu.ac.bd, msabik153104@bscse.uiu.ac.bd, mrahman153026@bscse.uiu.ac.bd, ssakiba153082@bscse.uiu.ac.bd, muzahid@cse.uiu.ac.bd, swakkhar@cse.uiu.ac.bd, salekul@cse.uiu.ac.bd, ashir@soc.ait.kyushu-u.ac.jp",
+      "contact_person": "Mohammad Akter Hossain <mhossain153064@bscse.uiu.ac.bd>",
+      "submissionCat": "regular"
+    },
+    {
+      "id":"39",
+      "paper_id": "402",
+      "description": "Mahedi Hasan, Anichur Rahman, Md. Razaul Karim, Md. Saikat Islam Khan, and Md. Jahidul Islam, Normalized Approach to Find Optimal Number of topics in Latent Dirichlet Allocation (LDA)",
+      "author_email": "mahedihasan.ict@gmail.com, anis.mbstu.cse@gmail.com, razaulkarimce15004@gmail.com, bappy.10.cse.mbstu@gmail.com, jahidul.jnucse@gmail.com",
+      "contact_person": "Mahedi Hasan <mahedihasan.ict@gmail.com>",
+      "submissionCat":  "regular"
+    },
+    {
+      "id":"40",
+      "paper_id": "403",
+      "description": "Md. Khalid Mahbub Khan, Muhammad Sajjadur Rahim, and Abu Zafor Md. Touhidul Islam, Evaluating Energy Efficiency and Performance of Social-Based Routing Protocols in Delay-Tolerant Networks",
+      "author_email": "khalidmahbub.khan@yahoo.com, sajid_ice@ru.ac.bd, touhid.eee@ru.ac.bd",
+      "contact_person": "Muhammad Sajjadur Rahim <sajid_ice@ru.ac.bd>",
+      "submissionCat":  "regular"
+    },
+    {
+      "id":"41",
+      "paper_id": "409",
+      "description": "Abdullah Al Mamun, Md. Umor Faruk Jahangir, M. Shamim Kaiser, Asif Karim, and Sami Azam, A Combined Framework of InterPlanetary File System and Blockchain to Securely Manage Electronic Health Records",
+      "author_email": "abdullah.iiuceee@gmail.com, jahangircs.sust@gmail.com, mskaiser@juniv.edu, asif.karim@cdu.edu.au, sami.azam@cdu.edu.au",
+      "contact_person": "Abdullah Al Mamun <abdullah.iiuceee@gmail.com>",
+      "submissionCat":  "regular"
+    },
+    {
+      "id":"42",
+      "paper_id": "410",
+      "description": "Sayed Mohsin Reza, Md Mahfujur Rahman, Md. Hasnat Parvez, Dr. Omar Badreddin, and Dr. Shamim Al Mamun, Performance Analysis of Machine Learning Approaches in Software Complexity Prediction",
+      "author_email": "sreza3@miners.utep.edu,mrrajuiit@gmail.com, hasnatiit847@gmail.com, obbadreddin@utep.edu, shamim@juniv.edu",
+      "contact_person": "Md Mahfujur Rahman <mrrajuiit@gmail.com>",
+      "submissionCat":  "regular"
+    },
+    {
+      "id":"43",
+      "paper_id": "413",
+      "description": "Fahiba Farhin, M. Shamim Kaiser, and Mufti Mahmud, Secured Smart Healthcare System: Blockchain and Bayesian Inference based Approach",
+      "author_email": "farhinfahiba@gmail.com, mskaiser@juniv.edu, mufti.mahmud@ntu.ac.uk",
+      "contact_person": "Fahiba Farhin <farhinfahiba@gmail.com>",
+      "submissionCat":  "regular"
+    },
+    {
+      "id":"44",
+      "paper_id": "416",
+      "description": "Al Amin Biswas, Anup Majumder, Md. Jueal Mia, Rabeya Basri, and Md. Sabab Zulfiker, Career Prediction with Analysis of Influential Factors Using Data Mining in the Context of Bangladesh",
+      "author_email": "alaminbiswas.cse@gmail.com, anupmajumder@juniv.edu, mjueal02@gmail.com, rabeyabasri3@gmail.com, sabab.rumc@gmail.com",
+      "contact_person": "Al Amin Biswas <alaminbiswas.cse@gmail.com>",
+      "submissionCat":  "regular"
+    },
+    {
+      "id":"45",
+      "paper_id": "418",
+      "description": "Md Murshedul Arifeen, Abdullah Al Mamun, Tanvir Ahmed, M Shamim Kaiser, and Mufti Mahmud, A Blockchain based Scheme for Sybil Attack Detection in Underwater Wireless Sensor Networks",
+      "author_email": "murshedularifeendipto@gmail.com, abdullah.iiuceee@gmail.com, tanvirahmed48@iut-dhaka.edu, mskaiser@juniv.edu, muftimahmud@gmail.com",
+      "contact_person": "Md Murshedul Arifeen <murshedularifeendipto@gmail.com>",
+      "submissionCat":  "regular"
+    },
+    {
+      "id":"46",
+      "paper_id": "419",
+      "description": "Ashraf Mahmud, Balasubramaniam Esakki, and Sankarasrinivasan Seshathiri, Quantification of groundnut leaf defects using image processing algorithms",
+      "author_email": "rayed.ugresearch@gmail.com, balasubramaniane@veltech.edu.in, sankarsrin@gmail.com",
+      "contact_person": "Ashraf Mahmud <rayed.ugresearch@gmail.com>",
+      "submissionCat":  "regular"
+    },
+    {
+      "id":"47",
+      "paper_id": "421",
+      "description": "Md. Al Mamun, A Comparative Study among Segmentation Techniques for Skin Disease Detection Systems",
+      "author_email": "almamun@juniv.edu",
+      "contact_person": "Md. Al Mamun <almamun@juniv.edu>",
+      "submissionCat":  "regular"
+    },
+    {
+      "id":"48",
+      "paper_id": "422",
+      "description": "Murshedul  Arifeen, Shamim Al Mamun, Md Rezowan Hossain Ferdous, and Tipu Sultan Eiko, Performance Analysis of Different Loss Function in Face Detection Architectures",
+      "author_email": "murshedularifeendipto@gmail.com, shamim@juniv.edu, rezosam0@gmail.com, murshedularifeen@gmail.com",
+      "contact_person": "Murshedul  Arifeen <murshedularifeendipto@gmail.com>",
+      "submissionCat":  "regular"
+    },
+     {
+      "id":"49",
+      "paper_id": "426",
+      "description": "Mohammad Reduanul Haque, Md. Gausul Azam, Sarwar Mahmud Milon, Md. Shaheen Hossain, Md. Al-Amin Molla, and Mohammad Shorif Uddin, Normalized Approach to Find Optimal Number of topics in Latent Dirichlet Allocation (LDA)",
+      "author_email": "reduan.cse@diu.edu.bd, mr.azam.cse@gmail.com, sarwar15-1072@diu.edu.bd, shaheen15-1096@diu.edu.bd, alamin.ged@diu.edu.bd, shorifuddin@gmail.com",
+      "contact_person": "Mohammad Reduanul Haque <reduan.cse@diu.edu.bd>",
+      "submissionCat":  "regular"
+    },
+    {
+      "id":"50",
+      "paper_id": "427",
+      "description": "Sabbir Ahmed, Md. Farhad Hossain, and Manan Binth Taj Noor, Convid-Net: An enhanced Convolutional Neural Network framework for COVID-19 detection from X-ray images",
+      "author_email": "sabbir.iit.ju@gmail.com, farhadiitju@gmail.com, manan.noor@juniv.edu",
+      "contact_person": "Md. Farhad Hossain <farhadiitju@gmail.com>",
+      "submissionCat":  "regular"
+    },
+    {
+      "id":"51",
+      "paper_id": "430",
+      "description": "Muhammad Nazrul Islam, Shahriar Rahman Khan, Noor Nafiz Islam, Md. Rezwan -A- Rownok, Syed Rohit Zaman and Samiha Raisa Zaman, A Mobile Application for Mental Health Care during COVID-19 Pandemic: Development and Usability Evaluation with System Usability Scale",
+      "author_email": "nazrul@cse.mist.ac.bd, shahriarkhan.ndc@gmail.com, nafiz7731@gmail.com, rownokrezwan@gmail.com, rohitzaman00@gmail.com, samiharaisa031@gmail.com",
+      "contact_person": "Shahriar Rahman Khan <shahriarkhan.ndc@gmail.com>",
+      "submissionCat":  "regular"
+    },
+     {
+      "id":"52",
+      "paper_id": "432",
+      "description": "Md. Mahfujur  Rahman, Shamim Al Mamun, M. Shamim Kaiser, and Md. Shahidul Islam, Cascade Classification of Face Liveliness Detection using Heart Beat Measurement",
+      "author_email": "mrrajuiit@gmail.com, shamim@juniv.edu, mskaiser@juniv.edu, sislam@juniv.edu",
+      "contact_person": "Shamim Al Mamun <shamim@juniv.edu>",
+      "submissionCat":  "regular"
+    },
+    {
+      "id":"53",
+      "paper_id": "433",
+      "description": "Md. Shahriare Satu, Mohammad Zoynul Abedin, Shoma Khanom, Jamal Ouenniche, and M Shamim Kaiser, Application of Feature Engineering with Classification Techniques to Enhance Corporate Tax Default Detection Performance",
+      "author_email": "shahriar.setu@gmail.com, abedinmz@yahoo.com, shomaiit829@gmail.com, jamal.ouenniche@ed.ac.uk, mskaiser@juniv.edu",
+      "contact_person": "Mohammad Zoynul Abedin <abedinmz@yahoo.com>",
+      "submissionCat":  "regular"
+    },
+    {
+      "id":"54",
+      "paper_id": "434",
+      "description": "M Mashrukh Zayed, S M Neyamul Kabir Utsha, and Sajjad Waheed, Handwritten Bangla Character Recognition Using Deep Convolutional Neural Network: Comprehensive Analysis on Three Complete Datasets",
+      "author_email": "zayedmashrukh@gmail.com, smnkabir16@gmail.com, sajjad@mbstu.ac.bd",
+      "contact_person": "Sajjad Waheed <sajjad@mbstu.ac.bd>",
+      "submissionCat":  "regular"
+    },
+    {
+      "id":"55",
+      "paper_id": "435",
+      "description": "Md. Shazzad-Ur-Rahman, Nahid Ibne Akhtar, Amit Singha, Md. Fahim Ashhab and K M Akkas Ali, An Efficient Bengali Text Steganography Method Using Bengali Letters and Whitespace Characters",
+      "author_email": "shazzad.bupit@gmail.com, nahid.ibne.akhtar@gmail.com, amitsinhga1996@gmail.com, ashhabfahim@gmail.com, akkas_khan@yahoo.com",
+      "contact_person": "Md. Shazzad-Ur-Rahman <shazzad.bupit@gmail.com>",
+      "submissionCat":  "regular"
+    },
+    {
+      "id":"56",
+      "paper_id": "437",
+      "description": "Nanziba Basnin, Mohammad Shahadat Hossain, and Lutfun Nahar, An Integrated CNN-LSTM Model for Bengali Lexical Sign Language Recognition",
+      "author_email": "basninnanziba@gmail.com, hossain_ms@cu.ac.bd, lutfacsecu@gmail.com",
+      "contact_person": "Mohammad Shahadat Hossain <hossain_ms@cu.ac.bd>",
+      "submissionCat":  "regular"
+    },
+    {
+      "id":"57",
+      "paper_id": "439",
+      "description": "Md. Repon Islam, Md. Saiful Islam, and Muhammad Sheikh Sadi, Towards Developing a Real-time Hand Gesture Controlled Wheelchair",
+      "author_email": "islam1607011@stud.kuet.ac.bd, islam1607003@stud.kuet.ac.bd, sadi@cse.kuet.ac.bd",
+      "contact_person": "Md. Repon Islam <islam1607011@stud.kuet.ac.bd>",
+      "submissionCat":  "regular"
+    },
+    {
+      "id":"58",
+      "paper_id": "440",
+      "description": "Atik Shahariar, Mirazul Islam, Muhammad Sheikh Sadi and Soumen Ghosh, Enhancing Flexible Unequal Error Control Method to Improve Soft Error Tolerance",
+      "author_email": "shahariar1607065@stud.kuet.ac.bd, islam1607062@stud.kuet.ac.bd, sadi@cse.kuet.ac.bd, soumeng007@gmail.com",
+      "contact_person": "Atik Shahariar <shahariar1607065@stud.kuet.ac.bd>",
+      "submissionCat":  "regular"
+    },
+    {
+      "id":"59",
+      "paper_id": "442",
+      "description": "Emam Hossain, Mohd Arafath Uddin Shariff, Mohammad Shahadat Hossain and Karl Andersson, A Novel Deep Learning Approach to Predict Air Quality Index)",
+      "author_email": "ehfahad01@gmail.com, mhnarfth@gmail.com, hossain_ms@cu.ac.bd, karl.andersson@ltu.se",
+      "contact_person": "Mohammad Shahadat Hossain <hossain_ms@cu.ac.bd>",
+      "submissionCat":  "regular"
+    },
+    {
+      "id":"60",
+      "paper_id": "443",
+      "description": "Muhammad Afzal Ismail, Deep Learning Based Algorithm for Skin Cancer Classification",
+      "author_email": "psxmi4@nottingham.ac.uk",
+      "contact_person": "Muhammad Afzal Ismail <psxmi4@nottingham.ac.uk>",
+      "submissionCat":  "regular"
+    }
+
+  ]
+}

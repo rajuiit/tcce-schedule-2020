@@ -1,0 +1,83 @@
+[
+  {
+    "session_ID": 1,
+    "session": "1A (Chair: Prof. Dr. Md. Shahadat Hossain, Dr. M. Arifur Rahman):",
+    "description": "Track 1: Artificial Intelligence and Soft Computing",
+    "Paper IDs": ": 315, 329, 330, 333, 342, 375",
+    "Time": ": 11:45 - 13:15",
+    "Zoom": "https://bdren.zoom.us/j/63477495566?pwd=WFBlSi8vMmQ3b3E0NDRibjZRWm53dz09"
+  },
+  {
+    "session_ID": 2,
+    "session": "Technical Session 1B (Chair: Prof. Dr. Kanad Ray, Dr. Md. Tajuddin Sikder):",
+    "description": "Track 2: Cognitive Science and Computational Biology",
+    "Paper IDs": ": 305, 313, 346, 353, 381, 444",
+    "Time": ": 11:45 - 13:15",
+    "Zoom": "https://bdren.zoom.us/j/64143596921?pwd=Q2ZZWFZ3SVlIV3hkVzZCVXA5dUp6dz09"
+  },
+  {
+    "session_ID": 3,
+    "session": "Technical Session 2A ( Chair: Dr. Mohammad Zahidur Rahman, Prof. Md. Al Mamun):",
+    "description": "Track 3: IoT and Data Analytics",
+    "Paper IDs": ": 321, 343, 344, 347, 356, 363",
+    "Time": ": 15:30 - 17:00",
+    "Zoom": "https://eu01web.zoom.us/j/64895335723?pwd=QkVDUTFYbWllSlIxaEpXZEM2QlFjdz09"
+  },
+  {
+    "session_ID": 4,
+    "session": "Technical Session 2B ( Chair: Prof Sajjad Waheed, Dr. Shayla Islam):",
+    "description": "Track 4: Network and Security",
+    "Paper IDs": ": 311, 325, 338, 384, 388, 418",
+    "Time": ": 15:30 - 17:00",
+    "Zoom": "https://bdren.zoom.us/j/65194499447?pwd=L0FBOHFSM0RPWkFNUjJac0lnNkoyQT09"
+  },
+  {
+    "session_ID": 5,
+    "session": "Technical Session 2C ( Chair: Dr. Nilanjan Dey, Dr. Md. Golam Rashed):",
+    "description": "Track 5: Signal Processing, Computer Vision & Rhythm Engineering",
+    "Paper IDs": ": 326, 339, 345, 371, 372, 393",
+    "Time": ": 15:30 - 17:00",
+    "Zoom": "https://bdren.zoom.us/j/61851188760?pwd=Q1psMUZZZE9EMWYzL2ZhZW1iYVVpUT09"
+  },
+  {
+    "session_ID": 6,
+    "session": "Technical Session 3A (Chair: Prof. Dr. Zaidi Bin Embong, Prof. Md. Sheikh Sadi):",
+    "description": "Track 1: Artificial Intelligence and Soft Computing",
+    "Paper IDs": ": 316, 336, 410, 426, 433, 434",
+    "Time": ": 09:30 - 11:30",
+    "Zoom": "https://bdren.zoom.us/j/62178509582?pwd=cUc5VXAxSkZoVFAvMENrV3FZRXRVdz09"
+  },
+  {
+    "session_ID": 7,
+    "session": "Technical Session 3B (Chair: Prof. Dr. Mohammad Hanif Ali, Prof. Dr. Mostofa Kamal Nasir):",
+    "description": "Track 2: Cognitive Science and Computational Biology",
+    "Paper IDs": ": 323, 351, 352, 374, 400, 421",
+    "Time": ": 09:30 - 11:00",
+    "Zoom": "https://bdren.zoom.us/j/62367602328?pwd=dXV0a01LZ3crWnloZ01qNjlYV1MrZz09"
+  },
+  {
+    "session_ID": 8,
+    "session": "Technical Session 3C ( Chair: Prof. Kaushik Deb, Dr. Shazzad Hosain):",
+    "description": "Track 3: IoT and Data Analytics",
+    "Paper IDs": ": 389, 402, 416, 439, 442",
+    "Time": ": 09:30 - 11:00",
+    "Zoom": "https://bdren.zoom.us/j/67486660601?pwd=cGhZRCsxV25DWjFCRzdhV1hoUGg1dz09"
+  },
+  {
+    "session_ID": 9,
+    "session": "Technical Session 4A ( Chair: Dr Mohd Kamarulzaki bin Mustafa, Prof. Dr. Hasnul Kabir):",
+    "description": "Track 4: Network and Security",
+    "Paper IDs": ": 403, 409, 413, 435, 440",
+    "Time": ": 14:00 - 15:30",
+    "Zoom": "https://bdren.zoom.us/j/62638233674?pwd=cll4TmwzT2o2WEhQNkhIL2FPQzYydz09"
+  },
+  {
+    "session_ID": 10,
+    "session": "Technical Session 4B ( Chair: Prof. Dr. A. B. M. Aowlad Hossain, A. S. M. Sanwar Hosen):",
+    "description": "Track 5: Signal Processing, Computer Vision & Rhythm Engineering",
+    "Paper IDs": ": 419, 422, 427, 432, 437, 443",
+    "Time": ": 14:00 - 15:30",
+    "Zoom": "https://bdren.zoom.us/j/67304054641?pwd=QWs2TGxOWi9NZHhqQmZjWWhQam5aUT09"
+  }
+
+]
